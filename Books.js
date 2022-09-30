@@ -118,5 +118,12 @@ const books = [
     "Status": "dead",
     "Book Name": "polytics", 
   },
+   {
+    "id": "44",
+    "Author": "vishvas patil",
+    "Born": "22 august ",
+    "Status": "dead",
+    "Book Name": "polytics", 
+  },
     
 ]
